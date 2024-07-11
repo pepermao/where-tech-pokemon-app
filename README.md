@@ -3,7 +3,7 @@
 ##### Installation
 - Fork this repo and clone it locally:
   ``` sh
-  git clone https://github.com/<your-username>/aletheia
+  git clone https://github.com/<your-username>/where-tech-pokemon-app
   cd aletheia
   ```
 
